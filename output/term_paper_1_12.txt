@@ -1,0 +1,401 @@
+Abstract
+
+This study aims at investigating the causal relations between unemployment and
+inflation in Cambodia according to the Phillips curve framework. Time series analysis
+based on VEC model is employed to evaluate the causality among variables. The
+observed variables are stationary at first difference using Augmented Dickey-Fuller test,
+and one cointegrating equation is found from Johansen cointegration test. VECM model
+is therefore appropriate for testing the long run relationship. The study finds that there is
+two-way causality between unemployment and inflation in the short run while there is
+one-way relationship from inflation to unemployment in the long run. However, the study
+could not state whether there is a tradeoff between unemployment and inflation in both
+short and long run. Therefore, further study can be conducted to illustrate if tradeoff exists
+
+and to examine the effect of these factors on Cambodian economy.
+I. Introduction
+
+Cambodia has shown strong economic growth over the last two decades after its
+first national election in 1993. This country has recognized as one of the lower middle-
+income economies with significant growth by the World Bank, and the government aims
+to reach upper-middle income and high-income status by 2030 and 2050, respectively
+(Ministry of Economy and Finance, 2016).
+
+Along with this recent achievement, the government also pays attentions on
+reducing the poverty, inflation as well as the unemployment rate to ensure sustainable
+growth. Figure | explains the downward sloping trends of these economic determinants
+from 1994 to 2015 which represents the efforts of the government to reduce these
+development constraints. Inflation and unemployment in Cambodia plays a significant
+role to reduce poverty and enhance economic growth. This study therefore will focus on
+the relationships among them and try to explain this phenomenon.
+
+Figure 1: Trends of unemployment, inflation and Poverty! in Cambodia
+
+Source: The World Bank, World Development Indicator (2016)
+
+From an Asian Development Bank (ADB) report (2017), inflation rate in Cambodia
+will rise from 3.4 percent in 2017 to 3.5 percent in 2018. This scenario happens due to
+the higher international price of oil and other goods. However, this level of inflation
+remains favorably low. Inflation has been fluctuating over this period. Also, Cambodia
+confronted high inflation rate at around 12 percent due to the existence of global financial
+
+crisis in 2008.
+
+1 Poverty is measured by the poverty gap index at $3.10 a day (2011 PPP). Some data on poverty gap are not
+available (from 1995 to 2003, 2005, 2006, 2013, 2014 and 2015).
+Moreover, unemployment rate in the country is relatively low at 1.4 percent average
+between 1994 and 2015. Cambodia has a high rate of labor participation in the economic
+activities. However, it is informed in ADB report (2015) that young Cambodian workers
+are poorly educated which leads to a mismatch between worker’s skills and employers’
+demand. Over 4 out of 10 Cambodian workers do not have appropriate knowledge to
+perform their jobs well. Thus, quality of education plays an important role to solve this
+issue. Yet, accessibility to education for the poor and enhancement of teachers’ quality
+need to be in place.
+
+As seen in figure 1, the inflation in Cambodia keeps fluctuating over time while the
+unemployment does not move that much. Hence, this study would investigate whether
+there is any short-run or long-run relationship connecting inflation and unemployment
+comparing to the Phillips curve framework where the tradeoff between them in the short-
+run is present.
+
+II. Literature Reviews
+
+There are some previous studies on the relationship between the two economics
+factors, namely unemployment and inflation. Those studies are summaries as follow.
+
+Author Mankiw (2001) studied the short-run inflation-unemployment tradeoff
+based on the standard dynamic models of price adjustment. In this study, he raised that
+monetary policy has short-run influence on unemployment and determines inflation in
+the long run; he added that it can be explained why there is a short-run tradeoff through
+price stickiness. Nevertheless, it is still unexplainable the dynamic relationships between
+these two factors.
+
+According to Staiger, D. et al. (1997), the author aims to observe the relationship
+among non-accelerating inflation rate of unemployment (NAIRU), unemployment and
+monetary policy. The study explained that the unemployment is not well estimated, so
+change in NAIRU should be considered to explain the effectiveness of monetary policy.
+Furthermore, the authors described the unemployment history could only explain
+inflation in the next year, not the next two years. In this sense, there is no long-run effect
+from unemployment to inflation.
+
+Karanassou, M. et al. (2005) conducted a study on the effect of monetary policy on
+
+inflation-unemployment tradeoff in the long run following frictional growth. The authors
+found three empirical results. First, they argued that the long-run Phillips curve could be
+flat. They stressed that, based on the result from OECD, inflation does not fall
+unconditionally when unemployment is above its natural rate. It 1s obvious that
+unemployment does not affect inflation rate in this case. Their second finding 1s that
+money growth shock has a slow effect on inflation. Third, the effect of monetary shock
+on unemployment is quicker. However, they added that the effect of monetary policy
+takes time for us to see its real consequence.
+
+There is another study conducted by the above authors, Karanassou, M. et al. (2008),
+related to the impact of money supply on the long-run changes of inflation and
+unemployment in the case of Spanish economy. They estimated the model for long-run
+Phillips curve before and after the change of institution and policy separately. They then
+found that effect of the decrease in money growth contributed larger to the rise of
+unemployment before rather than after the policy change. The 10% decrease in money
+growth forced the unemployment to rise by 5.3 percent before and 3.7 percent after the
+change. However, they argued that this institutional change was not the reason behind
+this differential effect. The restrictive monetary policy after policy change in post 1973
+era could be the real cause. They further found that the money growth during 1990s led
+to significant decrease of unemployment at the end of the decade. Their conclusion is
+monetary policy helps directly promote macroeconomic activities and unemployment in
+long run. Yet, the challenge occurs where it is no longer conspicuous that policymakers
+should focus just on reducing inflation. Nevertheless, the main purpose for monetary
+policy is to achieve both lower inflation and unemployment rates in the country. This
+seems to demonstrate the effort of the government to reduce unemployment and inflation
+should be balanced.
+
+Il. Theoretical Frameworks
+
+According to Mankiw (2013), the Phillips curve determines the tradeoff between
+wage inflation and unemployment in short run. The policymakers are always focusing on
+reducing both inflation and unemployment, but the results become mostly contradictory
+which reflects the Phillips curve framework. However, the author emphasizes that today
+Phillips curves has been redefined where wage inflation is replaced by price inflation,
+
+expected inflation and supply shock are taken into account. He further explains the forces
+on inflation rate which are expected inflation, cyclical unemployment and the supply
+shocks as expressing in below short-run Phillips curve equation:
+m=En—-B(u-u")+v
+inflation = expected inflation — B X cyclical unemployment + supply shock
+The minus sign before cyclical unemployment represents negative relationship
+between unemployment and inflation. Unemployment (u) and inflation (7 ) are
+endogenous variables which is influenced by supply shock (v) (Karanassou, M, ef al.,
+2005). The coefficient £ 1s the slope of tradeoff between the two endogenous variables.
+Figure 2: The Short-run Phillips Curve
+
+Inflation, a
+
+Unemployment, u
+
+Source: Mankiw, Macroeconomic, 8" edition (p.412)
+
+According to Mankiw 2013, he stated that “In the long run, the classical dichotomy
+holds, unemployment returns to its natural rate, and there is no tradeoff between inflation
+and unemployment” (p. 412). It implies that the cyclical unemployment become zero in
+the long run, and it will not have an impact on inflation.
+
+In addition to the long run scenario, even if the unemployment is at its natural rate,
+the government policy to reduce inflation will affect the future unemployment. This can
+be interpreted through sacrifice ratio which refers to the percentage of GDP sacrificed to
+lower the inflation. Then, sacrificed ratio is linked with Orkun’s law to illustrate how long
+it takes the unemployment to increase in order to reduce the certain rate of inflation
+
+(Mankiw 2013).
+IV. Data and Methodology
+1. Data and Limitation
+
+Due to the availability of data, this study will analyze the relationship between
+
+unemployment and inflation in Cambodia using time series data from 1994 to 2015.
+Annual data on unemployment and inflation are compiled from the World Bank data
+(2016). Specifically, inflation is regarded as the gross domestic product (GDP) deflator
+at annual rate while unemployment is measured as the total unemployment as percentage
+of total labor force. STATA is used as a tool to analyze this case study.
+
+2. Methodology
+
+Before reaching the causality estimation of unemployment and inflation followed
+VAR framework, this study will start with a simple linear model with unemployment and
+inflation as dependent and independent variables, respectively.
+
+UE, = Bot BiINF, + Ue, Ur~WN(0,07)
+
+where UE; is the unemployment as percentage of total labor force at time t, INF;
+is the inflation rate at time t, and wu; is assumed to be a white noise process to avoid
+obtaining biased estimators.
+
+Since this study is conducted using time series analysis, the stationarity of observed
+variables first needs to be checked to avoid spurious regression. An estimation with non-
+stationary data leads to inefficient estimators and produce invalid standard test results
+(Granger and Newbold, 1974). Augmented Dickey-Fuller test is therefore employed to
+perform the unit root check with null hypothesis stated that the series have unit roots. The
+rejection decision 1s made depending on Mackinnon critical values at 1%, 5% and 10%
+significance level.
+
+Next step is to define the optimal lags for the estimation. This lag length selection
+process plays an important role to avoid error estimation from choosing too many or few
+lags. There are different criteria to help choose optimal lags such as Likelihood Ratio
+(LR), Final Prediction Error (FPE), Akaike Information Criterion (AIC), Hannan-Quinn
+Information Criterion (HQIC) and Schwartz Bayesian Information Criterion (SBIC).
+
+The Johansen cointegration test is then employed to test whether or not there is a
+stationary relationship among observed variables in long run. It consists of two tests
+namely the maximum eigenvalue and trace test. Most importantly, this test will identify
+the correct model (VAR model or VECM) for examining the causality between
+
+unemployment and inflation.
+Vv. Empirical Results
+1. Unit Root Test
+
+This test follows the simple autoregressive, AR(1), model as Y, = OY,_1 + €,
+where €,~WN(0, 07). The two hypotheses are given as:
+
+The null hypothesis HO: @ = 1 and alternative hypothesis H1: @ < 1
+
+In performing the unit root test, the study has first tested the observed variables at
+level and found that inflation is stationary while unemployment contains a unit root after
+failing to reject the null hypothesis. It is necessary to perform another test at first
+difference. The result then shows that both variables are stationary at first difference
+considered as I(1) random walk process. Therefore, first difference variables will be used
+
+in the estimated model. Table 1 shows the results from Augmented Dickey-Fuller unit
+
+root test.
+Table 1: Augmented Dickey-Fuller Test
+Level First Difference
+Variables —— es
+Constant No Trend Constant & Trend Constant No Trend Constant & Trend
+UE -1.099 -1.451 -3,.275** -3,.232*
+INF -4,993*** -5.016*** -8.458*** -8.091***
+
+Note: ***, **, * represent significance level at 1%, 5% and 10%, respectively.
+2. Lag length Selection
+The study has performed a test for selecting optimal lags for the analysis. From
+table 2, the optimal lag at 4 1s selected by LR, FPE, AIC and HQIC while lag 1 is chosen
+by SBIC. This study will follow AIC result by choosing 3 optimal lags for each variable.
+
+Table 2: Lag length selection criteria
+
+Lag LR FPE AIC HQIC SBIC
+0 - 9.23727 7.89877 7.9124] 7.9977
+| 32.752 2.34944 6.52365 6.56458 6.82044*
+2 4.6177 2.90311 6.71156 6.77976 7.20621
+3 13.946* 2.20757* 6.38124* 6.47673* 7.07375
+4 5.8359 2.78135 6.50147 6.62424 7.39184
+
+Note: * denotes the optimal lag selected by each criterion.
+3. Couintegration test
+The cointegration test is performed to check the cointegrating equations among stationary
+
+variables. According to the results from Johansen cointegration test in table 3, trace statistic is
+smaller than the 5% critical value which tells that the null hypothesis is failed to reject. Therefore,
+there is at least a cointegration equation representing long-run relationship between observed
+variables. When variables are cointegrated, vector error correlation model should be applied.
+
+Table 3: Johansen cointegration test
+
+0
+Maximum Trace Max ° ‘
+Parms LL Eigenvalue Lo. . Critical
+Rank Statistic Statistic
+Value
+(0) 10 -53.548272 - 15.5774 14.6043 15.41
+] 13 -46.2461 0.53636 0).9730* 0.9730 3.76
+
+2 14 -45.759596 0.04992
+
+Note: * denotes the cointegration at each rank.
+4. Granger Causality
+This paper will adopt Vector Error Correction Model (VECM) with 3 optimal lags since
+
+due to the results from lag length selection criterion and co-integration test. The VEC model can
+
+be written as follows:
+
+Pp Pp
+
+AUE, =X, + ». X44 AUE,_; + » X12 AINF;,_; + 6,ECT,_, + eit (1)
+t=1 t=1
+p Pp
+
+AINF, =XK5+ » X54 AUE,_; + » X52 AINF,_; + 62 ECT,_4 + E2t (2)
+t=1 t=1
+
+The result of VECE estimation is shown in Appendix 4.
+
+From Table 4, there are both short-run and long-run relationships between
+unemployment (DUE) and inflation (DINF) in the case of Cambodia. For short-run
+relationship, there is a bidirectional causality between the observed variables. Inflation
+has chi2 of 7.32 with p-value of 0.0257. The chi2 is statistically significant which
+illustrates the short-run connection from inflation to unemployment. Similarly,
+unemployment obtains the chi2 at 5.07 with p-value of 0.0793 which is marginally
+significant and exhibits another causality relation from unemployment to inflation.
+
+As long-run causality, there is only a unidirectional connection from inflation to
+unemployment. The z-value of error correction term (ECT) from equation (1) 1s -2.44
+which is negative and statistically significant at 5% level. This explains the long-run
+connection from inflation to unemployment. However, the z-value of ECT from equation
+(2) 1s 4.44 which is positive and statistically significant at 5% level. This positive z-value
+
+does not represent the long-run causality.
+Table 4: Granger causality test
+Dependent Variables Type of Granger Causality
+
+Short-run Long-run
+DUE DINF ECT
+Chi2 [P-Value] z-value [P-Value]
+DUE 7.32** -2.44 **
+[0.0257] [0.015]
+DINF 5.07* 4.437637**
+[0.0793] [0.022]
+
+Note: ***, **, * represent significance level at 1%, 5% and 10%, respectively.
+
+This implies that the framework of Phillips curse is applicable for Cambodia’s case
+where there are causal impacts between inflation rate and unemployment in the economy.
+To lower the unemployment rate, the government would use fiscal policy to increase the
+aggregate demand through increasing government expenditure. The unemployment rate
+will then fall by the increase in demand for labor. Labor wages will also rise while firms
+start to raise the price of their products. The real wage will decrease and the workers will
+negotiate for higher wage. Firms will then lose their profits which force them to reduce
+their productivities and labor demands. This will lower price of goods, but raise the
+unemployment rate.
+
+However, unemployment does not affect the inflation in long-run perspective
+because inflation 1s most likely influenced by the international price level of merchandises
+rather than unemployment issue in Cambodia and unemployment is assumed to be at its
+natural rate regarding the long-run theory.
+
+It would be an advantage to emphasize that unemployment in Cambodia mainly
+happens due to limited education attainment of Cambodian people, especially those who
+live in rural areas. This is the reason that the government has recently tried to strengthen
+the education sector as a major priority to promote high skilled labor and meet the
+requirements of foreign investment firms. Furthermore, the effort to build good
+cooperation regionally and globally plays an important role to expand its market and be
+a conspicuous incentive for investors. Therefore, in the long run unemployment rate will
+reach its natural level and only determine the progress on economy, not the inflation rate.
+
+In additional, it is important to make sure that the residuals in estimation do not
+
+contain serial autocorrelation. Lagrange-multiplier Test 1s used. From the probability of
+chi2, the null hypothesis (HO: no autocorrelation at lag order) is failed to reject. Thus,
+there is no serial correlation among variables.
+
+Table 5: Lagrange-multiplier Test
+
+chi2 df Prob > chi2
+5.3347 4 0.25465
+2.8480 4 0.58358
+
+After employing VECM, the test for normally distributed disturbances after VEC
+is needed to check whether all residuals are normally distributed to avoid having biased
+estimators. Again, based on Jarque-Bera test, the null hypothesis (HO: Residual is
+normally distributed) is failed to reject which implies that all residuals are normally
+distributed.
+
+Table 6: Result of Normally distributed disturbances based on Jarque-Bera test
+
+Equation df Prob > chi2
+0.58755
+
+0.83087
+0.83824
+
+VI. Conclusions
+
+In conclusion, this paper aims to study the causality between unemployment and
+inflation in Cambodia based on Phillips curve theory. Time series analysis on
+unemployment rate and inflation 1s conducted, and VAR model is proposed to evaluate
+the causality among variable. Before reaching the causality test, it is important to conduct
+unit root test and cointegration tests to ensure the stationarity as well as to find whether
+all variables are cointegrated. Both variables are reported as stationary at first difference,
+and there is a cointegrating equation among them. This tells us that there is a long run
+relationship among our estimated variables. Therefore, the study employs vector error
+correlation model (VECM) instead of VAR model in order to check the long run causality.
+
+From the regression results, the study finds that there is two-way causality between
+unemployment and inflation in the short run. This implies that empirical result for short-
+run connection corresponds to the short-run Phillips curve theory, where there exists the
+
+relationship among the two factors, but it could not tell whether there is a tradeoff between
+them. Aligned with previous research on the long run tradeoff, this study finds that there
+is also one-way relationship from inflation to unemployment.
+
+In efforts to reduce inflation through monetary policy in Cambodia, the government
+should consider the long-term effect on its GDP and unemployment rate. Moreover, this
+study also suggests that the government should pay more attention on promoting major
+economic sectors including education sector which is the key to attract more foreign
+investment and to stay competitive in international markets.
+
+Further study on this framework can be conducted to illustrate the tradeoff between
+unemployment and inflation, and to examine the effect of these factors on Cambodia’s
+
+economy.
+
+EE
+References
+
+Asian Development Bank (2015). Cambodia: Addressing the Skill Gap. Employment
+Diagnostic Study.
+
+Asian Development Bank (2017). Asian Development Outlook 2017: Transcending the
+Middle-income Challenge.
+Karanassou, M., Sala, H., & Snower, D. J. (2005). A reappraisal of the inflation—
+unemployment tradeoff. European Journal of Political Economy, 21(1), 1-32.
+Karanassou, M., Sala, H., & Snower, D. J. (2008). Long-run inflation-unemployment
+dynamics: The Spanish Phillips curve and economic policy. Journal of Policy
+Modeling, 30(2), 279-300.
+
+Mankiw, N. G. (2001). The inexorable and mysterious tradeoff between inflation and
+unemployment. The Economic Journal, 111(471), 45-61.
+
+Mankiw, N. G. (2013). Macroeconomics. Eighth Edition.
+
+Ministry of Economy and Finance (2016). Cambodia’s Macroeconomic Progress: A
+Journey of 25 Year.
+
+Staiger, D., Stock, J. H., & Watson, M. W. (1997). The NAIRU, unemployment and
+
+monetary policy. The Journal of Economic Perspectives, 11(1), 33-49.
