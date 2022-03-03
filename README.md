@@ -13,8 +13,8 @@ ignore unnecessary text in the page header and footer.
 - pytesseract: 0.3.6
 
 ## Process
-1. Run `ocr.py` to generate multiple images from a given PDF file.
-2. Run `text_to_speech.py` to convert those images into a text file.
+1. Run `pdf_to_images.py` to generate multiple images from a given PDF file.
+2. Run `text_extractor.py` to convert those images into a text file.
 
 Or simply run `main.py` to automatically generate text file from a given PDF file.
 
